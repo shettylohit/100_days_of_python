@@ -6,7 +6,7 @@ print("hello world")
 print("hello world \nHello world")  # \n to add a new line 
 
 
-#String concatenation
+#String concatenation (+)
 
 print("hello" + "good morning")
 print("hello" + " good morning")
@@ -30,7 +30,7 @@ print('e.g. print("Hello " + "world")')
 print("New lines can be created with a backslash and n.")
 
 
-# Input function
+# Input function input("strings")
 
 input("what is your name")
 
@@ -90,7 +90,7 @@ print("a: " + a)
 print("b: " + b)
 
 
-# Final Exercise
+# Final Exercise Code band generator
 
 print("Welcome to the Band Name Generator.")
 city=input("What's name of the city you grew up in?")
