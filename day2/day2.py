@@ -71,8 +71,6 @@ weeks = years * 52
 print(f"you gave {weeks} weeks left")
 
 
-
-
 # Exercise 4 Tip calculator
 
 #if the bill was $150.23, split between 7 people, with 13.7% tip.
