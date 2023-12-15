@@ -13,7 +13,6 @@ print("hello" + " good morning")
 print("hello" + " " + "good morning")
 
 
-
 # Exercise 1 Debugging the code
 
 # Fix the code below👇
