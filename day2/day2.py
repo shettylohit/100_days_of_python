@@ -20,7 +20,6 @@ second_digit=int(two_digit_number[1])
 sum=first_digit+second_digit
 print(sum)
 
-
 # Exercise 2
 
 # Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
