@@ -194,7 +194,7 @@ if pizza == "L":
     bill += 25
 
 
-pepperoni = input("D0 you want pepperoni in your pizza Y/N: ")
+pepperoni = input("Do you want pepperoni in your pizza Y/N: ")
 
 if pepperoni == "Y":
     if pizza == "S":
