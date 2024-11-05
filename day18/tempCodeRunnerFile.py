@@ -1,0 +1,2 @@
+spots.penup()
+spots.hideturtle()
